@@ -1,9 +1,6 @@
 import "./app.scss";
 
 import React from 'react';
-/**
-import './App.css';
-*/
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
 import Contact from "./components/contact/Contact";
