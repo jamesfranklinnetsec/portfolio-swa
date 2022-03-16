@@ -9,7 +9,7 @@ export default function Topbar() {
 
         </div>
         <div className="button1">
-          <a href="#intro" className="logo"><h2>James</h2></a>
+          <a href="#intro" className="logo"><h2>Intro</h2></a>
         </div>
         <div className="button2">
           <a href="#projects" className="logo"><h2>Projects</h2></a>
