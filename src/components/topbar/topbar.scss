@@ -13,24 +13,39 @@
         padding: 10px 30px;
         display: flex;
         justify-content: space-between;
+
+        .left{
+            .logo{
+                font-size:large;
+                font-weight:bold;
+                text-decoration: none;
+                color: $themeGray90;
+            }
+        }
         
         .button1{
             .logo{
-                font-size:40px;
-                font-weight: 700;
+                font-size:medium;
+                font-weight: normal;
                 text-decoration: none;
-                color: inherit;
+                color: $themeGray90;
             }
         }
         .button2{
             .logo{
-                font-size:40px;
+                font-size:medium;
+                font-weight: normal;
+                text-decoration: none;
+                color: $themeGray90;
             }
 
         }
         .button3{
             .logo{
-                font-size:40px;
+                font-size:medium;
+                font-weight: normal;
+                text-decoration: none;
+                color: $themeGray90;
             }
 
         }
