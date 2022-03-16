@@ -8,13 +8,13 @@
     position: fixed;
     top: 0;
     z-index: 2;
-
     .wrapper{
         padding: 10px 30px;
         display: flex;
         justify-content: space-between;
-
         .left{
+            display: flex;
+            align-items:center;
             .logo{
                 font-size:large;
                 font-weight:bold;
@@ -22,8 +22,9 @@
                 color: $themeGray90;
             }
         }
-        
         .button1{
+            display: flex;
+            align-items:center;
             .logo{
                 font-size:medium;
                 font-weight: normal;
@@ -32,23 +33,25 @@
             }
         }
         .button2{
+            display: flex;
+            align-items:center;
+
             .logo{
                 font-size:medium;
                 font-weight: normal;
                 text-decoration: none;
                 color: $themeGray90;
             }
-
         }
         .button3{
+            display: flex;
+            align-items:center;
             .logo{
                 font-size:medium;
                 font-weight: normal;
                 text-decoration: none;
                 color: $themeGray90;
             }
-
         }
-
     }
 }
