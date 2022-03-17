@@ -9,11 +9,11 @@ export default function Topbar() {
         <a href="#intro" className="logo"><h1>Logo</h1></a>
         <div className="itemContainer">
           <Person className="icon"/>
-          <span>+61 450 844 989</span>
+          <span>+61 455 555 555</span>
         </div>
         <div className="itemContainer">
           <Mail className="icon"/>
-          <span>+61 450 844 989</span>
+          <span>myEmail@askKindlyForIt.com</span>
         </div>
         </div>
         <div className="button1">
